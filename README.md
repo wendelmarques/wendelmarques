@@ -6,7 +6,7 @@ Entusiasta de ciência de dados e Flutter. <br>
   
 <p>
 Se assim como eu, você gostaria de saber mais sobre o fantástico mundo dos dados, te convido a visitar o meu repositório 
-<a href="https://github.com/WendelMarques/materiais-de-estudos-sobre-data-science-deep-machine-learning/">Materiais de estudos sobre Data Science e Machine/ Deep Learning (nível iniciante)</a>.</p>
+<a href="https://github.com/WendelMarques/materiais-de-estudos-sobre-data-science-deep-machine-learning/">Materiais de estudos sobre Data Science e Machine Learning (nível iniciante)</a>.</p>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="python" width="81.92" height="33.12"/>

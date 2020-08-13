@@ -5,7 +5,7 @@
 <a href="https://github.com/WendelMarques/materiais-de-estudos-sobre-data-science-deep-machine-learning/">Materiais de estudos sobre Data Science e Machine/ Deep Learning (Nível iniciante)</a>.</p>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="python" width="102.4" height="41.4"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="python" width="81.92" height="33.12"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="27" height="27"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="27" height="27"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="27" height="27"/> 

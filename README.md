@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋<</h2>
+<h2 align="left">Olá! 👋</h2>
 <p>Meu nome é Wendel Marques. Natural de Salvador, moro em Goiânia e curso Ciência da Computação na UFG. :computer:</p>
 <p>Atualmente, estou estudando Data Science e Flutter. </p>
 <p> Se assim como eu, você gostaria de saber mais sobre o fantástico mundo dos dados, te convido a visitar o meu repositório 

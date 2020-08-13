@@ -17,8 +17,8 @@
 </p>
   
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendelmarques&show_icons=true" alt="wendelmarques" /></p>
-<p align="center">
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendelmarques&show_icons=true" alt="wendelmarques" /></p>
+<p align="left">
 <a href="https://twitter.com/wwwendel_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wwwendel_" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/wendelmarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wendelmarques" height="20" width="20" /></a>
 <a href="https://kaggle.com/wendelmarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="wendelmarques" height="20" width="20" /></a>

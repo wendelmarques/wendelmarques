@@ -1,7 +1,11 @@
 <h2 align="left">Olá! 👋</h2>
-<p>Meu nome é Wendel Marques. Natural de Salvador, moro em Goiânia e curso Ciência da Computação na UFG. :computer:</p>
-<p>Atualmente, estou estudando Data Science e Flutter. </p>
-<p> Se assim como eu, você gostaria de saber mais sobre o fantástico mundo dos dados, te convido a visitar o meu repositório 
+<p>Meu nome é Wendel Marques. Sou natural de Salvador, mas moro em Goiânia. <br>
+Faço Ciência da Computação na Universidade Federal de Goiás. :computer: <br>
+Atualmente, estou estudando Data Science e Flutter. <br>
+</p>
+  
+<p>
+Se assim como eu, você gostaria de saber mais sobre o fantástico mundo dos dados, te convido a visitar o meu repositório 
 <a href="https://github.com/WendelMarques/materiais-de-estudos-sobre-data-science-deep-machine-learning/">Materiais de estudos sobre Data Science e Machine/ Deep Learning (nível iniciante)</a>.</p>
 
 <p align="left">

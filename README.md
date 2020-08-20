@@ -1,5 +1,4 @@
 <h2 align="left">Olá 👋🏾 </h2>
-<h4>Também formato PCs</h4>
 <p>Meu nome é Wendel Marques. Sou natural de Salvador, mas moro em Goiânia. Faço Ciência da Computação na Universidade Federal de Goiás. 👨🏾‍💻 <br>
 <br>Atualmente estou me aventurando em ciência de dados e Flutter, especialmente com o objetivo de trabalhar como cientista de dados. <br>
 </p>

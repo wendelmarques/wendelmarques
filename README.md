@@ -27,3 +27,5 @@ Se assim como eu, você gostaria de saber mais sobre o fantástico mundo dos dad
 <a href="https://medium.com/@wendelmarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@wendelmarquesjs" height="15" width="15" /></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendelmarques&hide=,css,javascript,html&layout=compact&hide_border=true&title_color=e2563e)
+

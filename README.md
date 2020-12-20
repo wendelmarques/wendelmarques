@@ -1,7 +1,9 @@
 # Olá 👋🏾 
 ### Um pouco sobre minha vida profissional:
 <p> - Estudante  Ciência da Computação na Universidade Federal de Goiás. 👨🏾‍💻 
-<br> - Estagiário em Engenharia de Dados.<br>
+<br> - Estagiário em Engenharia de Dados.
+<br> - Estudando Flutter e Machine Learning<br>
+  
 </p>
   
 

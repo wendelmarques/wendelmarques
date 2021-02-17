@@ -1,5 +1,4 @@
-## Wendel Marques 👋🏾 
-### print("Hello Mundão!")
+👋🏾 👋🏾 👋🏾 👋🏾 
 #### Um pouco sobre minha vida profissional:
 - Estudante de Ciência da Computação - Universidade Federal de Goiás 👨🏾‍💻 
 - Estagiário em Engenharia de Dados

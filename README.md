@@ -1,25 +1,13 @@
 👋🏾 👋🏾 👋🏾 👋🏾 
 #### Um pouco sobre minha vida profissional:
 - Estudante de Ciência da Computação - Universidade Federal de Goiás 👨🏾‍💻 
-- Estagiário em Engenharia de Dados
+- Estagiário na área de Engenharia de Dados
 - Membro do Developer Student Club - UFG (Google Developers)
 - Idealizador e criador de conteúdo do vestgeek.com
-- Estudando Flutter e Machine Learning<br>
+- Estudando tópicos em ciência de dados<br>
   
 </p>
   
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="python" width="81.92" height="33.12"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="27" height="27"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="27" height="27"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="27" height="27"/> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="27" height="27"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="27" height="27"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="27" height="27"/> 
-
-  </p>
- 
 -----
   <p>
 Se assim como eu, você gostaria de saber mais sobre o fantástico mundo dos dados, te convido a visitar o meu repositório 

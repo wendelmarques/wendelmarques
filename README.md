@@ -4,7 +4,7 @@
 - Estagiário na área de Engenharia de Dados
 - Membro do Developer Student Club - UFG (Google Developers | @dscufg)
 - Idealizador e criador de conteúdo do vestgeek.com
-- Estudando tópicos em ciência de dados<br>
+- Estudando tópicos em ciências de dados<br>
   
 </p>
   

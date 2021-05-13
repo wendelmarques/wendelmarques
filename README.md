@@ -13,7 +13,6 @@
 Se assim como eu, você gostaria de saber mais sobre o fantástico mundo dos dados, te convido a visitar o meu repositório 
 <a href="https://github.com/WendelMarques/materiais-de-estudos-sobre-data-science-deep-machine-learning/">Materiais de estudos sobre Data Science e Machine Learning (nível iniciante)</a>.</p>
 
-💬 Pergunte-me sobre qualquer coisas <a href="https://github.com/wendelmarques/wendelmarques/issues)">aqui</a> (pesquisaremos, caso eu não saíbamos a resposta)
 
 <br>
 <p align="left">

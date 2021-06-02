@@ -1,7 +1,6 @@
 👋🏾 👋🏾 👋🏾 👋🏾 
 #### Um pouco sobre minha vida profissional:
 - Estudante de Ciência da Computação - Universidade Federal de Goiás 👨🏾‍💻 
-- Estagiário na área de Engenharia de Dados
 - Membro do Developer Student Club - UFG (Google Developers | @dscufg)
 - Idealizador e criador de conteúdo do vestgeek.com
 - Estudando tópicos em ciências de dados<br>

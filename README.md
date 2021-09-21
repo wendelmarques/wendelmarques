@@ -4,7 +4,7 @@
 - DSC Lead - Developer Student Club - UFG (Google Developers | @dscufg)
 - Idealizador e criador de conteúdo do vestgeek.com
 - Bolsista na área de Ciência de Dados no Centro de Excelência em IA - UFG
-- Estudando ciência de dados<br>
+- Estudando Ciência de Dados<br>
   
 </p>
   

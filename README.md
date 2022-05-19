@@ -1,9 +1,9 @@
 👋🏾 👋🏾 👋🏾 👋🏾 
 #### Um pouco sobre minha vida profissional:
 - Estudante de Ciência da Computação - Universidade Federal de Goiás 👨🏾‍💻 
-- DSC Lead - Developer Student Club - UFG (Google Developers | @dscufg)
+- GDSC Lead - Google Developer Student Club - UFG (Google Developers | [@dscufg](https://instagram.com/gdsc_ufg))
 - Idealizador e criador de conteúdo do vestgeek.com
-- Bolsista na área de Ciência de Dados no Centro de Excelência em IA - UFG
+- Bolsista no Centro de Excelência em IA - UFG
 - Estudando Ciência de Dados<br>
   
 </p>
